@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AACA,KACI,QAAS,CACT,4BACF","file":"main.83141aec.chunk.css","sourcesContent":["/* Basic styling */\r\nbody {\r\n    margin: 0;\r\n    font-family: Arial, sans-serif;\r\n  }\r\n  "]}
