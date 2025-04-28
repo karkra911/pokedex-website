@@ -1,0 +1,2 @@
+(this["webpackJsonppokedex-website"]=this["webpackJsonppokedex-website"]||[]).push([[0],{12:function(e,t,n){},14:function(e,t,n){"use strict";n.r(t);var c=n(1),i=n.n(c),o=n(3),r=n.n(o),s=(n(12),n(0));var d=function(){return Object(s.jsx)("div",{children:Object(s.jsx)("h1",{children:"Pokedex Website"})})};r.a.createRoot(document.getElementById("root")).render(Object(s.jsx)(i.a.StrictMode,{children:Object(s.jsx)(d,{})}))}},[[14,1,2]]]);
+//# sourceMappingURL=main.e99e1c5b.chunk.js.map
